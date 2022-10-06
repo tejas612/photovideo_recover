@@ -4,6 +4,7 @@
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
+      "TransferBoxAds_OnOff" : "on",  
       
       "InterAd_Interval" : "3000",  
     
