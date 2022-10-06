@@ -5,7 +5,7 @@
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
       "TransferBox_OnOff" : "on",  
-      "TransferBox_AppLink" : "https://play.google.com/store/apps/details?id=orbut.vpn.secure.proxy", 
+      "TransferBox_AppLink" : "orbut.vpn.secure.proxy", 
       
       "InterAd_Interval" : "3000",  
     
