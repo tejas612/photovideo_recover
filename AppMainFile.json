@@ -4,17 +4,16 @@
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
-      "TransferBox_OnOff" : "on",  
-      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
-      
-      "InterAd_Interval" : "3000",  
+      "InterAd_Interval" : "3000", 
     
       "AppVersion_Update" : "1.0",  
     
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
+          
       "email" : "reach@flawsometechnology.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-     
       "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
       "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
       "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
