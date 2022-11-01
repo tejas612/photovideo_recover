@@ -2,8 +2,8 @@
   "data" :  {
       "AD_Priority_Google_Applovin" : "Applovin",
     
-      "AdsOnOff" : "off",  
-      "DoubleAds_OnOff" : "off",  
+      "AdsOnOff" : "on",  
+      "DoubleAds_OnOff" : "on",  
       "InterAd_Interval" : "3000", 
     
       "AppVersion_Update" : "1.0",  
