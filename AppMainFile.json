@@ -3,7 +3,7 @@
       "AD_Priority_Google_Applovin" : "Applovin",
     
       "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "on",  
+      "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "10000", 
     
       "AppVersion_Update" : "1.0",  
@@ -27,7 +27,7 @@
       "PredchmpId": "https://u.theaddnews.com/zflaw/",
       "AtmeId": "https://u.theaddnews.com/zflaw/",
       
-      "ShowFirstDirect": "Show",
+      "ShowFirstDirect": "gone",
       "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
       
       "AppBanner": 
