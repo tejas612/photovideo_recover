@@ -4,7 +4,7 @@
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
-      "InterAd_Interval" : "3000", 
+      "InterAd_Interval" : "10000", 
     
       "AppVersion_Update" : "1.0",  
     
@@ -27,7 +27,7 @@
       "PredchmpId": "https://u.theaddnews.com/zflaw/",
       "AtmeId": "https://u.theaddnews.com/zflaw/",
       
-      "ShowFirstDirect": "Gone",
+      "ShowFirstDirect": "Show",
       "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
       
       "AppBanner": 
