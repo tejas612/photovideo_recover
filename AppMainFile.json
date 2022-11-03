@@ -5,7 +5,8 @@
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
       "InterAd_Interval" : "3000", 
-      "InterAd_Ads_or_URL" : "url",  
+    
+      "InterAd_Ads_or_URL" : "ads",  
     
       "AppVersion_Update" : "1.0",  
     
