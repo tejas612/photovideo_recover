@@ -1,6 +1,6 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "google",
+      "AD_Priority_Google_Applovin" : "applovin",
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
@@ -16,8 +16,8 @@
       "email" : "reach@flawsometechnology.com",  
       "privacyLink" : "https://sites.google.com/view/orbutvpn/policy",  
     
-      "BannerAd_Id": "ca-app-pub-xyz3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-xyz3940256099942544/1033173712",
+      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
+      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
       "VideoInter_Ad_Id": "ca-app-pub-3940256099942544/5224354917",
       "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
       "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
