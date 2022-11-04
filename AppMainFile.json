@@ -3,7 +3,7 @@
       "AD_Priority_Google_Applovin" : "google",
     
       "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "on",  
+      "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "3000", 
     
       "InterAd_Ads_or_URL" : "ads",  
