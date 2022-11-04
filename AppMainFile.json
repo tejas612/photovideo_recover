@@ -6,6 +6,7 @@
       "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "3000", 
     
+      "if use app lovin then make sure Inter ads as a URL Mandatory": "",
       "InterAd_Ads_or_URL" : "ads",  
     
       "AppVersion_Update" : "1.0",  
