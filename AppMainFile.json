@@ -2,6 +2,8 @@
   "data" :  {
       "AD_Priority_Google_Applovin" : "google",
     
+      "EveryTimeAdsFail_URL_OnOff" : "on",
+    
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "3000", 
