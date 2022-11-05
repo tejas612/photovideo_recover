@@ -4,8 +4,8 @@
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
-      "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "off",  
+      "AdsOnOff" : "off",  
+      "DoubleAds_OnOff" : "on",  
       "InterAd_Interval" : "3000", 
     
       "AppVersion_Update" : "1.0",  
