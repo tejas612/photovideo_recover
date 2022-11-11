@@ -6,7 +6,7 @@
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
-      "InterAd_Interval" : "10000", 
+      "InterAd_Interval" : "2000", 
     
       "AppVersion_Update" : "1.0",  
     
