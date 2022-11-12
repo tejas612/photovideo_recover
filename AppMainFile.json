@@ -6,9 +6,9 @@
     
       "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
-      "InterAd_Interval" : "2000", 
+      "InterAd_Interval" : "20000", 
     
-      "AppVersion_Update" : "1.0",  
+      "AppVersion_Update" : "2.2",  
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
