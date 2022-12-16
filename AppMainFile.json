@@ -4,12 +4,12 @@
     
       "EveryTimeAdsFail_URL_OnOff" : "off",
     
-      "AdsOnOff" : "off",  
+      "AdsOnOff" : "on",  
       "DoubleAds_OnOff" : "off",  
       "InterAd_Interval" : "1000", 
       "RecycleAds_Position" : "4",
     
-      "AppVersion_Update" : "2.2",  
+      "AppVersion_Update" : "2.3",  
     
       "TransferBox_OnOff" : "off",  
       "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
