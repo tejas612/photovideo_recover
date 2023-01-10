@@ -5,8 +5,8 @@
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
       "AdsOnOff" : "on",  
-      "DoubleAds_OnOff" : "on",  
-      "InterAd_Interval" : "1000", 
+      "DoubleAds_OnOff" : "off",  
+      "InterAd_Interval" : "8000", 
       "RecycleAds_Position" : "4",
     
       "AppVersion_Update" : "2.3",  
@@ -17,12 +17,12 @@
       "email" : "reach@flawsometechnology.com",  
       "privacyLink" : "https://sites.google.com/view/trashcandeleteddatarecover/privacy-policy",  
     
-      "BannerAd_Id": "ca-app-pub-3940256099942544/6300978111",
-      "InterAd_Id": "ca-app-pub-3940256099942544/1033173712",
-      "VideoInter_Ad_Id": "ca-app-pub-3940256099942544/5224354917",
-      "NativeAd_Id": "ca-app-pub-3940256099942544/2247696110",
-      "NativeAd_Id1": "ca-app-pub-3940256099942544/2247696110",
-      "AppOpenAd_Id": "ca-app-pub-3940256099942544/3419835294",
+      "BannerAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Banner",
+      "InterAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Interstitial",
+      "VideoInter_Ad_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Rewarded",
+      "NativeAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_Native",
+      "NativeAd_Id1": "/21753324030,22831855031/deleted.photo_recover.video_recover_Native",
+      "AppOpenAd_Id": "/21753324030,22831855031/deleted.photo_recover.video_recover_AppOpen",
     
       "BannerAd_Id_Applovin": "72bd40e8dac1f2d1",
       "MrecAd_Id_Applovin": "dadecb605416aa57",
